@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fuchao2012/github-actions-weekly-reader/issues"
   },
-  "homepage": "https://github.com/fuchao2012/github-actions-weekly-reader#readme"
+  "homepage": "https://github.com/fuchao2012/github-actions-weekly-reader#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
 }
