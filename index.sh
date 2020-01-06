@@ -2,6 +2,7 @@
 
 set -eux
 
+# 获取周刊的周期为每周一下午6点
 YEAR=`date +%Y`
 MONTH=`date +%m`
 DAY=`date +%d`
